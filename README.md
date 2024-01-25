@@ -33,7 +33,8 @@ Estoy abierto a colaboraciones, nuevas ideas y oportunidades para crecer. ¡No d
 
 Contáctate conmigo mediante :
 
-LinkedIn: https://www.linkedin.com/in/micaela-liste-b98b61251/ 
+LinkedIn: https://www.linkedin.com/in/micaela-liste-b98b61251/
+
 Gmail: micaelaliste@gmail.com
   
 <br/>  
