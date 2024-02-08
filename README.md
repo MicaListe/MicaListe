@@ -27,7 +27,7 @@ Estoy emocionada por contribuir al mundo del desarrollo de software y seguir mej
  - Olimpus Shop: Proyecto grupal realizado junto a 7 compañeros de bootcamp. Desarrollamos un e-commerce relacionado a la venta de artículos deportivos. En Olimpus Shop, los usuarios pueden encontrar indumentaria, calzado, accesorios, equipamiento y suplementos relacionados a la musculación. Este proyecto no solo presentó un desafío técnico, sino que brindo la oportunidad de poder colaborar y aprender en equipo.
    https://olimpus-shop.vercel.app/ 
 
-- Proyecto Individual Countries: Countries te brinda la oportunidad de explorar y conocer los diferentes países del mundo, descubriendo sus características principales. Además, te permite planificar y crear actividades turísticas personalizadas.
+- Proyecto Individual Time to travel: Time to travel te brinda la oportunidad de explorar y conocer los diferentes países del mundo, descubriendo sus características principales. Además, te permite planificar y crear actividades turísticas personalizadas.
   https://proyecto-paises-uv86.vercel.app/
 
  ## 📫 ¡Hablemos!
