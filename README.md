@@ -48,7 +48,7 @@ Gmail: micaelaliste@gmail.com
 -  🤓Actualmente estoy trabajando en Moments Events 
   
 
-- 🌱 Actualmente estoy aprendiendo TypeScript, Next.js y Tailwind  
+- 🌱 Actualmente estoy aprendiendo Bootstrap y Cluodinary 
 
 
 </td><td valign="top" width="50%">
