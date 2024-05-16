@@ -45,7 +45,7 @@ Gmail: micaelaliste@gmail.com
 ## Fuego Rápido  
 <table><tr><td valign="top" width="50%">
 
--  🤓Actualmente estoy trabajando en Olimpus Shop. https://olimpus-shop.vercel.app/  
+-  🤓Actualmente estoy trabajando en Moments Events 
   
 
 - 🌱 Actualmente estoy aprendiendo TypeScript, Next.js y Tailwind  
